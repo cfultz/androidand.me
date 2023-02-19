@@ -9,6 +9,8 @@ TLDR: Nerd that loves Android runs two phones, different OSes, one non-Google, o
 
 ## Hi!
 
+![Caleb](https://media.cfultz.com/accounts/avatars/109/408/251/484/750/392/original/ac0f15348a4c59f4.jpg)
+
 Hello there! I'm Caleb ([@cfultz](https://github.com/cfultz), I'm a Linux System Administrator III for the [National Radio Astronomy Observatory](https://info.nrao.edu), and I love Android! I have ever since I first purchased a T-Mobile [G1](https://en.wikipedia.org/wiki/HTC_Dream), rooted it to unlock it, and made it work on AT&T to replace my [iPhone 3G](https://en.wikipedia.org/wiki/IPhone_3G) which was my first jump into rooting through the jailbreaking procedures. 
 
 
@@ -31,9 +33,15 @@ This blog will be about my venture into using two Pixels, one a 6a running [Caly
 
 ### First, what is CalyxOS?
 
+![CalyxOS](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Calyxos_Logo_CalyxOS_Dark.svg/2560px-Calyxos_Logo_CalyxOS_Dark.svg.png)
+
 A completely Google-free, privacy focused ROM built *mostly* for Pixel devices. While it runs on a few other phones, Pixels are their primary build targets. CalyxOS uses [microG](https://microg.org/) in order to interface with certain things that you might want to use from the [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore), but there is nothing Google on there.
 
 ### And why rooted?
 
 I haven't rooted anything in forever because I was locked into Verizon devices with locked bootloaders. I said "**NO MORE!!!**" and purchased a Pixel 7 Pro from Google and joined [Google Fi](https://g.co/fi/r/JDN1V2) (referal link). I rooted the stock Android 13 OS using [Magisk](https://github.com/topjohnwu/Magisk) and have modified a few things, but nothing too crazy. 
+
+## Okay, so what is Android and Me about?!
+
+I will be running two phones, with different OSes, one non-Google, one Google powered to see if there is a true difference and if I can utilize open source alternatives on one while using "*normal*" apps on the other. I will post the findings, wins, losses, utter failures, and dumb luck on this blog. I hope that you join me on this ride!
 
