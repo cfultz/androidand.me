@@ -3,27 +3,31 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Hi!
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hello there! I'm Caleb ([@cfultz](https://github.com/cfultz), I'm a Linux System Administrator III for the [National Radio Astronomy Observatory](https://info.nrao.edu), and I love Android! I have ever since I first purchased a T-Mobile [G1](https://en.wikipedia.org/wiki/HTC_Dream), rooted it to unlock it, and made it work on AT&T to replace my [iPhone 3G](https://en.wikipedia.org/wiki/IPhone_3G) which was my first jump into rooting through the jailbreaking procedures. 
 
-There are currently two themes built on Poole:
+## I used to be cool
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+I have created several applications that I released on the Play Store and garnered several thousand downloads. Sadly, they are no longer available as I haven't been doing any sort of Android development for around 3 years. I worked on the [Android App Addicts](https://podnutz.com/category/android-app-addicts/) application and even appeared on a few episodes early on. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Work History and such
 
-## Setup
+I owned and operated nTelosDroid.com, a website dedicated to the rooting and romming of Android devices on the regional carrier nTelos. This landed me a job in their techincal support department thanks to the massive user base I had cultivated by troubleshooting through the forums. I closed that website in late 2013 due to *conflict of interests*, moved into the Data Operations team at nTelos until they were purchased in 2016. After a few years doing network operations for another local company, I joined the National Radio Astronomy Observatory as a Linux System Administrator and that's where I am to this day.
 
-Some fun facts about the setup of this project include:
+## What does all that have to do with Android and Me? 
 
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
+Nothing really. I wanted to let you know who you were reading posts by sooooo :bowtie:
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+## So, what is Android and Me?!
 
-Thanks for reading!
+This blog will be about my venture into using two Pixels, one a 6a running [CalyxOS](https://calyxos.org/), the other a rooted "stock" 7 Pro. 
+
+### First, what is CalyxOS?
+
+A completely Google-free, privacy focused ROM built *mostly* for Pixel devices. While it runs on a few other phones, Pixels are their primary build targets. CalyxOS uses [microG](https://microg.org/) in order to interface with certain things that you might want to use from the [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore), but there is nothing Google on there. :godmode:
+
+### And why rooted?
+
+I haven't rooted anything in forever because I was locked into Verizon devices with locked bootloaders. I said "**NO MORE!!!**" and purchased a Pixel 7 Pro from Google and joined [Google Fi](https://g.co/fi/r/JDN1V2) (referal link). I rooted the stock Android 13 OS using [Magisk](https://github.com/topjohnwu/Magisk) and have modified a few things, but nothing too crazy. 
+
