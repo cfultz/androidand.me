@@ -11,7 +11,7 @@ TLDR: Nerd that loves Android runs two phones, different OSes, one non-Google, o
 
 ![Caleb](https://media.cfultz.com/accounts/avatars/109/408/251/484/750/392/original/ac0f15348a4c59f4.jpg)
 
-Hello there! I'm Caleb ([@cfultz](https://github.com/cfultz), I'm a Linux System Administrator III for the [National Radio Astronomy Observatory](https://info.nrao.edu), and I love Android! I have ever since I first purchased a T-Mobile [G1](https://en.wikipedia.org/wiki/HTC_Dream), rooted it to unlock it, and made it work on AT&T to replace my [iPhone 3G](https://en.wikipedia.org/wiki/IPhone_3G) which was my first jump into rooting through the jailbreaking procedures. 
+Hello there! I'm Caleb ([@cfultz](https://github.com/cfultz))! I'm a Linux System Administrator III for the [National Radio Astronomy Observatory](https://info.nrao.edu) and I love Android! I have ever since I first purchased a T-Mobile [G1](https://en.wikipedia.org/wiki/HTC_Dream), rooted to unlock it, and made the device work on AT&T to replace my [iPhone 3G](https://en.wikipedia.org/wiki/IPhone_3G) (which was my first jump into rooting through the jailbreaking procedures). 
 
 
 ## I used to be cool
