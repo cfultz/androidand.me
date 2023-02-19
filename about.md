@@ -3,13 +3,19 @@ layout: page
 title: About
 ---
 
+TLDR: Nerd that loves Android runs two phones, different OSes, one non-Google, one Google powered to see if there is a true difference and if he can utilize open source alternatives on one while using "*normal*" apps on the other.
+
+-----
+
 ## Hi!
 
 Hello there! I'm Caleb ([@cfultz](https://github.com/cfultz), I'm a Linux System Administrator III for the [National Radio Astronomy Observatory](https://info.nrao.edu), and I love Android! I have ever since I first purchased a T-Mobile [G1](https://en.wikipedia.org/wiki/HTC_Dream), rooted it to unlock it, and made it work on AT&T to replace my [iPhone 3G](https://en.wikipedia.org/wiki/IPhone_3G) which was my first jump into rooting through the jailbreaking procedures. 
 
+
 ## I used to be cool
 
 I have created several applications that I released on the Play Store and garnered several thousand downloads. Sadly, they are no longer available as I haven't been doing any sort of Android development for around 3 years. I worked on the [Android App Addicts](https://podnutz.com/category/android-app-addicts/) application and even appeared on a few episodes early on. 
+
 
 ## Work History and such
 
@@ -17,7 +23,7 @@ I owned and operated nTelosDroid.com, a website dedicated to the rooting and rom
 
 ## What does all that have to do with Android and Me? 
 
-Nothing really. I wanted to let you know who you were reading posts by sooooo :bowtie:
+Nothing really. I wanted to let you know who you were reading posts by sooooo :D
 
 ## So, what is Android and Me?!
 
@@ -25,7 +31,7 @@ This blog will be about my venture into using two Pixels, one a 6a running [Caly
 
 ### First, what is CalyxOS?
 
-A completely Google-free, privacy focused ROM built *mostly* for Pixel devices. While it runs on a few other phones, Pixels are their primary build targets. CalyxOS uses [microG](https://microg.org/) in order to interface with certain things that you might want to use from the [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore), but there is nothing Google on there. :godmode:
+A completely Google-free, privacy focused ROM built *mostly* for Pixel devices. While it runs on a few other phones, Pixels are their primary build targets. CalyxOS uses [microG](https://microg.org/) in order to interface with certain things that you might want to use from the [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore), but there is nothing Google on there.
 
 ### And why rooted?
 
