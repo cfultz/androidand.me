@@ -43,5 +43,5 @@ I haven't rooted anything in forever because I was locked into Verizon devices w
 
 ## Okay, so what is Android and Me about?!
 
-I will be running two phones, with different OSes, one non-Google, one Google powered to see if there is a true difference and if I can utilize open source alternatives on one while using "*normal*" apps on the other. I will post the findings, wins, losses, utter failures, and dumb luck on this blog. I hope that you join me on this ride!
+I will be running two phones, with different OSes, one non-Google, one Google powered to see if there is a true difference and if I can utilize open source alternatives on one while using "*normal*" apps on the other. I will post the findings, wins, losses, utter failures, and dumb luck on this blog. I hope that you join me on this ride! In the mean time, find me on <a href="https://cfultz.com/@cfultz" rel="me" target="_blank">Mastodon</a> and say hi!
 
